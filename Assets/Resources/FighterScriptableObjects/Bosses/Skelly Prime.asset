@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13138ae729fdc417694e50c4dd343822, type: 3}
+  m_Name: Skelly Prime
+  m_EditorClassIdentifier: 
+  name: Skelly Prime
+  maxHp: 50
+  attack: 6
+  attacksPerSecond: 0.2
+  defense: 0
+  experienceGiven: 15
+  animatorController: {fileID: 9100000, guid: 9f7f931f0fbae4254880b1ce56abeca2, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13138ae729fdc417694e50c4dd343822, type: 3}
+  m_Name: Thrall Prime
+  m_EditorClassIdentifier: 
+  name: Thrall Prime
+  maxHp: 5
+  attack: 10
+  attacksPerSecond: 0.1
+  defense: 6
+  experienceGiven: 15
+  animatorController: {fileID: 9100000, guid: e53f318b764dd4bf2a76313b1ce1ffee, type: 2}
