@@ -2,6 +2,8 @@
 
 Idle game where you try to get really powerful by fighting
 
+![demo preview](./preview.gif?raw=true)
+
 ## TODO
 
 - Support for full-screen mode
