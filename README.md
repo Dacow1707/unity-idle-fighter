@@ -4,7 +4,7 @@ Idle game where you try to get really powerful by fighting
 
 ## TODO
 
-- Figure out build issues with AnimationController and UnityEditor namespace
+- Support for full-screen mode
 - Display stat costs and benefits
 - Stat scaling after every 10 levels
 - Allow fighting lower level monster if stuck
@@ -14,9 +14,9 @@ Idle game where you try to get really powerful by fighting
 - Mobs of monsters
 - Splash mechanic
 - Save progress
-- Death penalty
+- Death penalty besides fixed time
 - Pretty menu
 - Splash screen
-- Polish animation timings
+- Smoother animation timings
 - Sound effects
 - More sprites
